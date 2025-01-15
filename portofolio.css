@@ -1,0 +1,28 @@
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #e2edff;    
+}
+
+#projects{
+    background-color: #e2edff;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+section .whatsap{
+    margin-left: -5px;
+}
+
+section .No .whatsap{
+    margin-left: -5px;
+}
+
+section .btn{
+    width: 100%;
+}
+
+.kontak{
+    margin-top: -10px;
+}
